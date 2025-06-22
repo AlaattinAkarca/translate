@@ -4,6 +4,4 @@
 
 <h3>Project Gif</h3>
 
-![Screen Recording 2024-03-02 at 06 16 49 PM]
-
 # translate
