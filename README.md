@@ -4,6 +4,6 @@
 
 <h3>Project Gif</h3>
 
+![Screen Recording 2024-03-02 at 06 16 49 PM]
 
-![Screen Recording 2024-03-02 at 06 16 49 PM](https://github.com/nazanyilmaz/Translator-Redux-toolkit/assets/147782488/6314b097-eb18-4a3a-adb5-566804092a83)
 # translate
